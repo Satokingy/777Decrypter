@@ -1,4 +1,4 @@
 # 777Decrypter
 
 snfs00などのpbファイルを復号化<br>
-I love vibecode
+I love vibe coding
