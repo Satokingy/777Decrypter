@@ -1,0 +1,17 @@
+This local package bundles Python and the following components:
+Python / Tcl/Tk: PSF / Tcl/Tk licenses
+Pillow: MIT-CMU
+NumPy: BSD-3-Clause and bundled dependency licenses
+texture2ddecoder: MIT
+Unicorn: engine GPL-2.0, bindings BSD
+Capstone: BSD
+pyelftools: Public Domain
+PyCryptodome: BSD / Public Domain
+PyInstaller: GPL with bootloader exception
+FFmpeg 8.0.1 full build (including libx264): GPL build
+FFmpeg build provider: https://www.gyan.dev/ffmpeg/builds/
+FFmpeg source: https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+
+Package metadata/license files are provided under _internal/assets/licenses.
+The local RM5 runtime binary/data are recovered from the user's game files;
+they are not original open-source code from this tool.
